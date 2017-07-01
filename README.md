@@ -16,8 +16,8 @@ TickをgRPCで受信
 ## Protocol
 ### multi cast
 Producer, Serverを手軽に増設できる<br>
-Networkへの負荷も非常に小さい<br>
-応答の悪いClientからの影響を小さくできる
+Networkの負荷が小さい<br>
+応答の悪いClientからの影響を受けたServerを分離しやすい
 
 ### gRPC
 HTTP2なので、バイナリを高速に配信でき、Proxyも通しやすい<br>
