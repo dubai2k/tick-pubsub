@@ -20,8 +20,8 @@ Networkの負荷が小さい<br>
 応答の悪いClientからの影響を受けたServerを分離しやすい
 
 ### gRPC
+etcdに採用され、microserviceへの利用も増えている<br>
 HTTP2なので、バイナリを高速に配信でき、Proxyも通しやすい<br>
-様々な言語に対応したライブラリやドキュメントが配布されている<br>
-etcdに採用され、microserviceへの利用も増えている
+Protocol Buffers(IDL)でinterfaceを定義し、様々な言語で実装できる
 
 [www.grpc.io](http://www.grpc.io)
