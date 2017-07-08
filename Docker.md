@@ -15,7 +15,7 @@
 ## Docker
 ### 開発
 - Dockerfile作成
-- DockerImage作成
+- DockerImage作成
 ### 運用
 - リハーサル
     DockerImageからConainer起動
